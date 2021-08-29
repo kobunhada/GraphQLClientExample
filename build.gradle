@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.kotlin.jvm' version '1.5.30'
+    //noinspection SpellCheckingInspection
+    id 'com.apollographql.apollo' version '2.5.3'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib"
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+    //Apollo client library for read GraphQL web server
+    implementation "com.apollographql.apollo:apollo-runtime:2.5.3"
+    implementation "com.apollographql.apollo:apollo-coroutines-support:2.5.3"
+    implementation "com.apollographql.apollo:apollo-rx3-support:2.5.3"
+}
+
+test {
+    useJUnitPlatform()
+}

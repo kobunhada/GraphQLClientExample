@@ -1,0 +1,9 @@
+query Example {
+    pokemons(first: 10) {
+        number,
+        name,
+        maxHP,
+        maxCP,
+        image
+    }
+}
