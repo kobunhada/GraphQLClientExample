@@ -1,0 +1,16 @@
+graphqlpokemon/ExampleQuery.java
+ graphqlpokemon.ExampleQuery
+ graphqlpokemon.ExampleQuery$1
+ graphqlpokemon.ExampleQuery$Builder
+ graphqlpokemon.ExampleQuery$Data
+ graphqlpokemon.ExampleQuery$Data$1
+ graphqlpokemon.ExampleQuery$Data$1$1
+ graphqlpokemon.ExampleQuery$Data$Mapper
+ graphqlpokemon.ExampleQuery$Data$Mapper$1
+ graphqlpokemon.ExampleQuery$Data$Mapper$1$1
+ graphqlpokemon.ExampleQuery$Pokemon
+ graphqlpokemon.ExampleQuery$Pokemon$1
+ graphqlpokemon.ExampleQuery$Pokemon$Mapper
+graphqlpokemon/type/CustomType.java
+ graphqlpokemon.type.CustomType
+ graphqlpokemon.type.CustomType$1

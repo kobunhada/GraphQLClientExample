@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphQLClientExample.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphQLClientExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphQLClientExample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphQLClientExample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GraphQLClientExample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/GraphQLClientExample.test.iml" />
+    </modules>
+  </component>
+</project>
